@@ -27,17 +27,17 @@ Developed for Meta Quest 2 using Unity.
 
 ## 📲 Try the APK Directly
 To experience the system without building manually:
-1. Download the APK from the [Builds](./Builds/XR-Language-Learning-App.apk).
+1. Download the APK from the [Builds](Builds/AIDialogue_Quest2.apk).
 2. Install it on your Meta Quest 2.
 3. Enjoy immersive multilingual learning!
 
 ⚡ *Note: Source project settings are not included, only Assets provided.*
 
 ## 📚 Dissertation
-- [Click here to read full dissertation](./Docs/Dissertation_Ruxuan_Wang.pdf)
+- [Click here to read full dissertation](./Docs/Dissertation.pdf)
 
 ## 📸 Screenshots
-(*Add your project running screenshots here*)
+(TBC)
 
 ## 🔮 Future Work
 - Personalization based on user communication style.
