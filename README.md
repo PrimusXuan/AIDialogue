@@ -27,7 +27,7 @@ Developed for Meta Quest 2 using Unity.
 
 ## 📲 Try the APK Directly
 To experience the system without building manually:
-1. Download the APK from the [Builds](Builds/AIDialogue_Quest2.apk).
+1. Download the APK from the [Builds](Builds).
 2. Install it on your Meta Quest 2.
 3. Enjoy immersive multilingual learning!
 
