@@ -1,0 +1,41 @@
+# ========== Unity默认忽略项 ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+[Ll]ogs/
+UserSettings/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.keystore
+
+# ========== 包管理缓存 ==========
+Packages/manifest.json
+Packages/packages-lock.json
+
+# ========== OS & 工具垃圾文件 ==========
+.DS_Store
+Thumbs.db
+
+# ========== 忽略所有 .apk 文件 ==========
+*.apk
+
+# ========== 但允许上传 Builds 目录下的 apk 成品 ==========
+!Builds/*.apk
