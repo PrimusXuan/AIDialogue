@@ -38,4 +38,6 @@ Thumbs.db
 *.apk
 
 # ========== 但允许上传 Builds 目录下的 apk 成品 ==========
-!Builds/*.apk
+*.apk
+!Builds/AIDialogue_Quest2.apk
+
